@@ -1,3 +1,5 @@
+### Image Classification of similar looking images using fast.ai an transfer learning
+
 This repository contains experiments performed on image classification of similar looking images (instruments) using fast.ai and transfer learning.
 
 1. Size of the image being fed into the Resnet depends on the classification problem and dataset (using sizes like 448x448 or 336x336).
